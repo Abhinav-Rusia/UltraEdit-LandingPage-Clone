@@ -146,6 +146,7 @@ main p {
     font-weight: 600;
     border-radius: 6px;
     border: none;
+    cursor: pointer;
 }
 .grid{
     display: grid;
